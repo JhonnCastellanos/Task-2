@@ -1,7 +1,7 @@
 # challenge
 Any test automation code for personal proporse
 
-### Install
+### NOTE
 ```
 Here teh 2 task
 
